@@ -1,4 +1,4 @@
-# MeloTTS Integration
+# RAG_LLAMA Integration
 
 This project integrates the [MeloTTS](https://github.com/myshell-ai/MeloTTS) speech synthesis engine. Follow the instructions below to set up and run the project successfully.
 
@@ -30,3 +30,7 @@ To get started, you need to install **MeloTTS** from its source, as `pip` will n
 
     cd ..
     pip install -r requirements.txt
+
+### 3. RUN RUN RUN >>>>
+
+     python3 assistant5.py
